@@ -1,0 +1,30 @@
+{
+  "name": "react-async-view",
+  "version": "1.0.0",
+  "description": "Component handling isEmpty, isLoading and promise rejections for data loaded asynchronously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loose-dev/react-async-view.git"
+  },
+  "keywords": [
+    "react",
+    "data",
+    "async"
+  ],
+  "author": "Petr Peller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loose-dev/react-async-view/issues"
+  },
+  "homepage": "https://github.com/loose-dev/react-async-view#readme",
+  "peerDependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@types/react": "*"
+  }
+}
