@@ -1,8 +1,8 @@
 {
   "name": "react-async-view",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Component handling isEmpty, isLoading and promise rejections for data loaded asynchronously.",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
